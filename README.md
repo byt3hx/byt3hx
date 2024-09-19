@@ -4,7 +4,7 @@ Bug Bounty Hunter/ Pentester
 
 # About Me
 
-My name is Chan, but other people known me as bytehx on Twitter. I'm an infosec and programming enthusiast, especially interested in security. Over the past five years, I have participated in various cybersecurity events and competitions. Recently, I have been doing Bug Bounty Hunting, Security Research, and developing tools to contribute to the community. By day, I work as a Senior Penetration Tester, and in my free time, I focus on bug hunting across various platforms.
+My name is Chan, but other people known me as bytehx on Twitter. I'm an infosec and programming enthusiast, especially interested in security. Over the past five years, I have participated in various cybersecurity events and competitions. Recently, I have been doing Bug Bounty Hunting, Security Research, and developing tools to contribute to the community. By day, I work as a Senior Penetration Tester, and in my free time, I focus on bug hunting across various platforms. Please reach out through bytehx@wearehackerone.com for private invite.
 
 # Certifcations
 
