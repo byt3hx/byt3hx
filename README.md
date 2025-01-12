@@ -18,6 +18,7 @@ My name is Chan, but other people known me as bytehx on Twitter. I'm an infosec 
 
 # Bug Bounty Profile
 - https://yeswehack.com/hunters/bytehx
+- https://hackerone.com/bytehx
 
 # Tools
 
